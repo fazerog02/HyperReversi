@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/HyperReversi/static/css/main.79a375c2.chunk.css",
-    "main.js": "/HyperReversi/static/js/main.5ab637e0.chunk.js",
-    "main.js.map": "/HyperReversi/static/js/main.5ab637e0.chunk.js.map",
+    "main.css": "/HyperReversi/static/css/main.6f2af44c.chunk.css",
+    "main.js": "/HyperReversi/static/js/main.9bf2c787.chunk.js",
+    "main.js.map": "/HyperReversi/static/js/main.9bf2c787.chunk.js.map",
     "runtime-main.js": "/HyperReversi/static/js/runtime-main.00c7d36e.js",
     "runtime-main.js.map": "/HyperReversi/static/js/runtime-main.00c7d36e.js.map",
     "static/js/2.b551f43e.chunk.js": "/HyperReversi/static/js/2.b551f43e.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.e0efa137.chunk.js": "/HyperReversi/static/js/3.e0efa137.chunk.js",
     "static/js/3.e0efa137.chunk.js.map": "/HyperReversi/static/js/3.e0efa137.chunk.js.map",
     "index.html": "/HyperReversi/index.html",
-    "static/css/main.79a375c2.chunk.css.map": "/HyperReversi/static/css/main.79a375c2.chunk.css.map",
+    "static/css/main.6f2af44c.chunk.css.map": "/HyperReversi/static/css/main.6f2af44c.chunk.css.map",
     "static/js/2.b551f43e.chunk.js.LICENSE.txt": "/HyperReversi/static/js/2.b551f43e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.00c7d36e.js",
     "static/js/2.b551f43e.chunk.js",
-    "static/css/main.79a375c2.chunk.css",
-    "static/js/main.5ab637e0.chunk.js"
+    "static/css/main.6f2af44c.chunk.css",
+    "static/js/main.9bf2c787.chunk.js"
   ]
 }
